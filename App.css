@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://www.softwaresuggest.com/blog/wp-content/uploads/2020/08/10-Roles-and-Responsibilities-of-HR-Manager-in-Organization_FB-2.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 98vw;
+  margin: 0;
+  color: white;
+  
+}
+
+
