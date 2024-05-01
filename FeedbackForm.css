@@ -1,0 +1,34 @@
+.feedback-form-container {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .feedback-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  label {
+    margin: 10px 0;
+    display: block;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  .star {
+    font-size: 20px;
+    margin-right: 5px;
+    transform: rotateY(45deg);
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .star:hover {
+    transform: rotateY(0deg);
+  }
+  
